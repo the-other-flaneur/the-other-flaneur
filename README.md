@@ -1,4 +1,4 @@
-![cover_image](https://github.com/the-other-flaneur/the-other-flaneur/blob/main/cover.jpg)
+![cover_image](https://github.com/the-other-flaneur/the-other-flaneur/blob/main/cover.png)
 
 I'm a passionate developer currently pursuing my Computer Science degree in Argentina.
 - Advancing my Computer Science studies while building real-world projects
