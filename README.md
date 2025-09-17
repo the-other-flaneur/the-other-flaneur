@@ -1,4 +1,4 @@
-![cover_image](https://github.com/the-other-flaneur/the-other-flaneur/blob/main/IMG_1951.jpg)
+![cover_image](https://github.com/the-other-flaneur/the-other-flaneur/blob/main/cover.jpg)
 
 I'm a passionate developer currently pursuing my Computer Science degree in Argentina.
 - Advancing my Computer Science studies while building real-world projects
@@ -37,6 +37,3 @@ I'm a passionate developer currently pursuing my Computer Science degree in Arge
      → Exploring advanced JavaScript patterns
      → Building portfolio of production-ready applications
 ```
-
-⭐ **"Code is like humor. When you have to explain it, it's bad."** - *Cory House*
-💼 *Open for internship opportunities and collaborative projects*
